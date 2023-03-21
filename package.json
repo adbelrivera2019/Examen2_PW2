@@ -1,0 +1,19 @@
+{
+  "name": "examen2_pw2",
+  "version": "1.0.0",
+  "description": "Examen 2 de PW2 Cristian Rivera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adbelrivera2019/Examen2_PW2.git"
+  },
+  "author": "carg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adbelrivera2019/Examen2_PW2/issues"
+  },
+  "homepage": "https://github.com/adbelrivera2019/Examen2_PW2#readme"
+}
